@@ -1,0 +1,15 @@
+.myButton {
+    background-color: darkorange;
+    border-color: darkorange;
+    margin: 20px;
+}
+
+#footer {
+    display: block;
+    font-size: 80%;
+    color: #6c757d
+}
+
+#center{
+    text-align: center;
+}
